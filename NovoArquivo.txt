@@ -1,0 +1,2 @@
+Linha gerada por função 'Escreve arquivo' 
+Linha gerada por funcao 'Altera arquivo' 
