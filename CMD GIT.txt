@@ -1,0 +1,7 @@
+// Comandos Git //
+
+git init // cria repositorio
+git config user.name "nomeUsuario" // define nome de usuaio
+git config user.email "emailUsuario" // define o e-mail
+git remote add origin http://... // aponta o repositorio remoto
+git add . // adiciona todas as modificações
